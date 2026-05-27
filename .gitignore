@@ -4,6 +4,9 @@ incremental_db/
 simulation/
 output_files/
 
+# Platform Designer
+.qsys_edit/
+
 # Nios II
 *.elf
 *.hex
