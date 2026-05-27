@@ -1,0 +1,20 @@
+# Quartus
+db/
+incremental_db/
+simulation/
+output_files/
+
+# Nios II
+*.elf
+*.hex
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Temporary
+*.bak
+*.tmp
